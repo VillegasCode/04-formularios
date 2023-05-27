@@ -58,6 +58,14 @@
   border-radius: 3px;
 }
 
+.label-gray {
+  background-color: rgb(158, 158, 158);
+  color: black;
+  border: rgb(247, 0, 247);
+  border-radius: 3px;
+  
+}
+
 .cargando {
   background-color: burlywood;
   color: black;
